@@ -6,7 +6,9 @@
 > (https://colab.research.google.com/drive/15UQ1ULJE6Z8OqhKMQ0n-mXM-O2MQDahr)
 
 > (Highly Recommended: GitHub takes time or fails to load heavy .ipynb project files, use this link for a smooth experience!)
-> 
+>
+> E-commerce Sales Analysis Using SQL.pdf (Quick Access)
+> (https://drive.google.com/file/d/19_MSkCgdOEy15xhsEaapEfVP6hltlKep/view?usp=drive_link)
 
 # 📊 E-Commerce Sales Analytics Dashboard
 
