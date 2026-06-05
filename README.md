@@ -178,7 +178,7 @@ The objective was to analyze customer behavior, sales performance, product trend
 
 # 🖼️ Dashboard Preview
 
-![Dashboard Preview](Dashboard/dashboard.png)
+![Dashboard Preview](Screenshot (57).png)
 
 
 
