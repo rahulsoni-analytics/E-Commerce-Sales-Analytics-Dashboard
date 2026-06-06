@@ -1,4 +1,4 @@
-![Dashboard](IMG-20251117-WA0000.jpg)
+ ![Dashboard](IMG-20251117-WA0000.jpg)
 
 # 📊 E-Commerce Sales Analytics Dashboard
 
