@@ -15,6 +15,15 @@
 >
 > (https://drive.google.com/file/d/19_MSkCgdOEy15xhsEaapEfVP6hltlKep/view?usp=drive_link)
 
+## 🚀 Quick Access (Notebook Viewer)
+
+> 📊 **[Click Here to View the Interactive Project Notebook on Google Colab](https://colab.research.google.com/drive/15UQ1ULJE6Z8OqhKMQ0n-mXM-O2MQDahr)**
+> (Highly Recommended: GitHub takes time or fails to load heavy .ipynb project files!)
+
+> 📄 **[E-Commerce Sales Analysis Using SQL.pdf](https://drive.google.com/file/d/19_MSkCgdOEy15xhsEaapEfVP6hltlKep/view?usp=drive_link)**
+
+
+
 # 📊 E-Commerce Sales Analytics Dashboard
 
 ## 📌 Project Overview
