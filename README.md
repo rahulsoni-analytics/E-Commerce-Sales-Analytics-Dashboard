@@ -1,5 +1,5 @@
 
-![Dashboard Preview](IMG-20260606-WA0001(1).jpg)
+![Dashboard Preview](dashboard/IMG-20260606-WA0001(1).jpg
 
 
 
