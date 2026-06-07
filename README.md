@@ -65,6 +65,10 @@ The objective was to analyze customer behavior, sales performance, product trend
 └── README.md
 
 
+
+
+
+
 # 🔄 Project Workflow
 
 ### 📂 Data Preparation
@@ -204,15 +208,6 @@ The objective was to analyze customer behavior, sales performance, product trend
 * 📊 Power BI Dashboard
 * 📑 Project Presentation
 * 📈 Business Insights Report
-
----
-
-# 🖼️ Dashboard Preview
-
-![Dashboard Preview](Screenshot (57).png)
-
-
-
 
 ---
 
