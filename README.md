@@ -1,12 +1,5 @@
-![Dashboard Preview](IMG-20260606-WA0001(1).JPG)
 
-
-
-
-
-
-
-
+![Dashboard Preview](https://raw.githubusercontent.com/rahulsoni-analytics/E-Commerce-Sales-Analysis/main/dashboard_preview.png)
 
 
 
@@ -45,6 +38,32 @@ The objective was to analyze customer behavior, sales performance, product trend
 * 🎨 Canva
 
 ---
+## 📁 Project Structure
+
+📦 E-Commerce-Sales-Analysis
+├── 📂 data/
+│   ├── 📂 raw/
+│   │   ├── Customers.csv
+│   │   ├── Orders.csv
+│   │   ├── Order_Items.csv
+│   │   ├── Products.csv
+│   │   └── Payments.csv
+│   └── 📂 processed/
+│       ├── New_Customers.csv
+│       ├── New_Orders.csv
+│       ├── New_Order_Items.csv
+│       ├── new_products.csv
+│       └── New_Payment.csv
+├── 📂 notebooks/
+│   └── Ecommerce Dataset Analysis.ipynb
+├── 📂 sql/
+│   └── Ecommerce SQL Analysis File.sql
+├── 📂 dashboard/
+│   └── Ecommerce Analysis Dashboard.pbix
+├── 📂 reports/
+│   └── E-Commerce Sales Analysis SQL Project Report.pdf
+└── README.md
+
 
 # 🔄 Project Workflow
 
