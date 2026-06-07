@@ -1,5 +1,5 @@
 
-![Dashboard Preview](https://raw.githubusercontent.com/rahulsoni-analytics/E-Commerce-Sales-Analysis/main/dashboard_preview.png)
+![Dashboard Preview](Ecommerce Analysis Dashboard.pbix)
 
 
 
