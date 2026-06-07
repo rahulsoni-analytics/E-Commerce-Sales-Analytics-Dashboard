@@ -1,5 +1,5 @@
 
-![Dashboard Preview]([Ecommerce Analysis Dashboard.pbix)](https://github.com/rahulsoni-analytics/E-Commerce-Sales-Analysis/blob/main/Ecommerce%20Analysis%20Dashboard.pbix)
+![Dashboard Preview]([Ecommerce Analysis Dashboard.pbix)](IMG-20260606-WA0001(1).jpg)
 
 
 
