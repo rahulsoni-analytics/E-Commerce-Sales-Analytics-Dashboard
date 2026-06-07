@@ -1,5 +1,5 @@
 
-![Dashboard Preview]([Ecommerce Analysis Dashboard.pbix)](IMG-20260606-WA0001(1).jpg)
+![Dashboard Preview](IMG-20260606-WA0001(1).jpg)
 
 
 
